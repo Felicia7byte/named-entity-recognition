@@ -13,3 +13,5 @@ Python, Streamlit, Hugging Face Transformers, Pre-trained NER Transformer Model
 Enter Text → Transformer NER Model → Entity Detection → Entity Classification → Confidence Score
 
 The application uses a pre-trained Transformer model through the Hugging Face pipeline API to identify and classify named entities in text.
+# Live Demo
+https://named-entity-recognition-transformers.streamlit.app/
